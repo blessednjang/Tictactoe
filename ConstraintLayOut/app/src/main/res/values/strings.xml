@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayOut</string>
+    <string name="username">Username</string>
+    <string name="user_password">User Password</string>
+    <string name="login">Login</string>
+    <string name="signup">signup</string>
+</resources>

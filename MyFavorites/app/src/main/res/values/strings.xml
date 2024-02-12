@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyFavorites</string>
+    <string name="EatMeNow"> Coleslaw Eat me now</string>
+    <string name="VisitMENow"> Dubai Visit me now </string>
+    <string name="LikeMENow">Green like me now</string>
+    <string name="PlayMENow">Soccer PLay me now</string>
+    <string name="DriveMENow"> Honda Drive me now</string>
+    <string name="FlyMENow"> Eagle Fly me now</string>
+    <string name="green">Green</string>
+    <string name="honda">Honda</string>
+    <string name="dubai">Dubai</string>
+    <string name="soccer">Soccer</string>
+    <string name="eagle">Eagle</string>
+    <string name="my_favorite_things">My Favorite Things</string>
+
+
+</resources>
